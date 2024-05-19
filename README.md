@@ -15,4 +15,5 @@ The user-based recommendation system suggests songs based on the preferences and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/music-recommendation-system.git
+git clone [https://github.com/your-username/music-recommendation-system.git](https://github.com/Melisaaydinci/Music-Recommendation-System.git)
+
